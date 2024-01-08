@@ -1,0 +1,37 @@
+body{
+    background-color: rgb(196, 194, 193);
+}
+
+div.indice {
+background-color: aqua;
+
+}
+
+.flex{
+    display: flex;
+
+
+}
+
+.excorcista{
+    margin-right: 5%;
+    width: 50%;
+    background-color: red;
+}
+.terrifier{
+
+    background-color: rgb(15, 10, 255);
+}
+
+.imgrespl{
+float: right;
+}
+
+.Resplandor{
+    text-align: right;
+}
+
+span{
+    margin-top: 200px;
+    width: 500px;
+}
